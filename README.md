@@ -4,6 +4,7 @@
 </h1>
 <p align="center">🚨🚧👷Projeto em construção.👷🚧🚨 </p>
 <p align="center">Projeto AirCnC é um projeto para divulgação de alugueis de spot para o setor tecnologico, realizado em umas das semanas da rocketseat.</p>
+<p align="center">🚨🚨🚨Sistema desenvolvido para fim educacional🚨🚨🚨 </p>
 
 <p align="center">
  <a href="#pré-requisitos">Pré Requisitos</a> •
